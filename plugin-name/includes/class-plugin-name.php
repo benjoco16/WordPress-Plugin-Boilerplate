@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * Hello This is a test
  * The file that defines the core plugin class
  *
  * A class definition that includes attributes and functions used across both the
